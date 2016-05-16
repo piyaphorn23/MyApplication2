@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-cf7f7c07307eb4727788025e2c226541029a61a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-a16b1d9e4cb872b9d2910fb9ae304e45b69e5227.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-b53bad094cb870c7295001457325f4b3e1cb5d85.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-29cccb843e08d2e83477f49ecd24960df7c395db.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-46c031d6a85e1bf0470b3bcd1c758491447ee6db.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-b0bf5a77b2054e46df746d281e3bf6a86007158d.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-d8cab19e5626070a72ef9bff7310be2d972cd0cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-f96c284805bf3ce0425b42e2f02480d6a6128181.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-99e48a18e2864bbf8713de14509c6b23ee93746c.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-47406edb7148a1800480c2c5028e998c46576535.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-e55981228791c336cdf91f7b89354e2d2008e349.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-09d704ea1af02c7ec821d165228e3894cb8a98eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-2099ddd065ce63af3631da5e4c0e61eb0104b76b.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-7f7ceaab6ea9921d1e5171f412c69d04846f1d75.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-18c861e3a234cce4bc71481cf98126defda3c7ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-36c2c0931ec720f0d53ee4ef382d14e9b53f7a1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-2dbea14e5957cdc331e0dd7121c8c6198087d222.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-c483e6795225a1dcfa5e6939973c1f7d9bdcf01a.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-5f5ca4d52e5f3e90dfdc2443f2f476cda85fa8f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-4305fc04f95a2abaefe29196b13d1cebcbac6385.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-85124fec29676714ce66f87b9ce460af1b175d20.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-9777bfb5972cf8d715d945568b718cb9ed30690a.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-76fcaf50c90272f90ac8c4cee55f7116d335c542.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-446c6548d4e8cb81751c1eef58b11eb99956e56b.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-5ba599704804cf4cf4ece99aeddbd28110248ba2.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-856516b1aa1064c1bb8c8c6c92009475e1e41f1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-055dd5f7433594d8d09068f7b271df302bb8a753.jar" />
+    </item>
+    <item
+        jar="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\PIYAPHORN\OneDrive\Documents\MyApplication2\app\build\intermediates\pre-dexed\debug\classes-f1c5fdf0c1be31b02fbb20ee08b83751aefb41e2.jar" />
+    </item>
+
+</items>
